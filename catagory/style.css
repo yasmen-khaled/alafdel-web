@@ -795,11 +795,35 @@
 }
 
 .catagory .frame-21 {
-  position: relative;
+  display: flex;
+  flex-direction: column;
   width: 212.06px;
+  align-items: flex-start;
+  gap: 211.27px;
+  position: relative;
+}
+
+.catagory .group-2 {
+  position: relative;
+  width: 161.83px;
+  height: 120.91px;
 }
 
 .catagory .frame-22 {
+  display: inline-flex;
+  align-items: center;
+  gap: 8.9px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.catagory .img-2 {
+  position: relative;
+  width: 33.36px;
+  height: 33.36px;
+}
+
+.catagory .frame-23 {
   display: inline-flex;
   align-items: center;
   gap: 124.54px;
@@ -807,7 +831,7 @@
   flex: 0 0 auto;
 }
 
-.catagory .frame-23 {
+.catagory .frame-24 {
   display: flex;
   flex-direction: column;
   width: 144.56px;
@@ -828,7 +852,7 @@
   line-height: normal;
 }
 
-.catagory .frame-24 {
+.catagory .frame-25 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -862,7 +886,7 @@
   line-height: normal;
 }
 
-.catagory .frame-25 {
+.catagory .frame-26 {
   display: inline-flex;
   flex-direction: column;
   height: 257.98px;
@@ -902,7 +926,7 @@
   height: 1.08px;
 }
 
-.catagory .frame-26 {
+.catagory .frame-27 {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
@@ -912,7 +936,7 @@
   flex: 0 0 auto;
 }
 
-.catagory .frame-27 {
+.catagory .frame-28 {
   display: inline-flex;
   align-items: center;
   gap: 11.12px;
@@ -955,7 +979,7 @@
   white-space: nowrap;
 }
 
-.catagory .frame-28 {
+.catagory .frame-29 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
