@@ -1,0 +1,68 @@
+.frame {
+    display: flex;
+    gap: 253.37px;
+    padding: 18.55px 0px;
+    background-color: #0c224775;
+    width: 100%;
+    min-width: 1175px;
+    min-height: 108.15px;
+    align-items: center;
+    position: relative;
+}
+
+.frame .group {
+    position: relative;
+    width: 95.09px;
+    height: 71.04px;
+}
+
+.frame .navbar {
+    display: inline-flex;
+    gap: 29.23px;
+    flex: 0 0 auto;
+    align-items: center;
+    position: relative;
+}
+
+.frame .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.22px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24.4px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.frame .div {
+    width: 213px;
+    gap: 63px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.frame .user-wrapper {
+    width: 63px;
+    justify-content: center;
+    gap: 17px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+.frame .user {
+    position: relative;
+    width: 44px;
+    height: 43px;
+}
+
+.frame .shopping-cart {
+    position: relative;
+    width: 43.85px;
+    height: 43.85px;
+    object-fit: cover;
+}
